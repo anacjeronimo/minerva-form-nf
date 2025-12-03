@@ -2,7 +2,7 @@
 ### ✨🎓 Meu primeiro projeto de Front-End
 
 Este repositório marca minha primeira experiência com desenvolvimento **Front-End**, criada há cerca de dois anos, quando eu trabalhava na Minerva Foods.  
-O objetivo foi criar um **formulário estilizado** para simular a emissão de uma Nota Fiscal, usando apenas **HTML + CSS + JavaScript**.
+O objetivo foi criar um **formulário simples estilizado** para a emissão de uma Nota Fiscal, usando apenas **HTML + CSS + JavaScript**.
 
 
 ## 💡 Objetivos do Projeto
